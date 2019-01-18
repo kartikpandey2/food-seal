@@ -1,0 +1,19 @@
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+#home-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-image: url("/src/components/public/brooke-lark-500141-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#search-box-div {
+  width: 60%;
+}
